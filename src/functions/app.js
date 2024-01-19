@@ -1,1 +1,1 @@
-console.log('connectedd');
+console.log('connected');
